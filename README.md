@@ -1,46 +1,30 @@
-# Machine Learning Engineer Nanodegree
-# Model Evaluation and Validation
-## Project: Predicting Boston Housing Prices
+<img src="https://www.class-central.com/report/app/uploads/2016/11/Udacity-Homepage.jpg" alt="Udacity-Banner" width="800px">
 
-### Install
+# Udacity #
+* [www.udacity.com](http://udacity.com)
 
-This project requires **Python 2.7**(if you complete this project in Python 3.x, you will have to update the code in various places including all relevant print statements) and the following Python libraries installed:
+This is a public repository with projects/exercises developed for Udacity courses and nanodegrees.
 
-- [NumPy](http://www.numpy.org/)
-- [Pandas](http://pandas.pydata.org/)
-- [matplotlib](http://matplotlib.org/)
-- [scikit-learn](http://scikit-learn.org/stable/)
+Udacity is a for-profit educational organization founded by Sebastian Thrun, David Stavens, and Mike Sokolsky offering massive open online courses (MOOCs). According to Thrun, the origin of the name Udacity comes from the company's desire to be "audacious for you, the student". While it originally focused on offering university-style courses, it now focuses more on vocational courses for professionals.
 
-You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
+### Platform Modules ###
 
-If you do not have Python installed yet, it is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+* MLND:
+Machine Learning Nanodegree.
+* SDCND:
+Self Driven Car Nanodegree.
+* FSWDND:
+Full Stack Web Development Nanodegree.
 
-### Code
+### Stacks & Frameworks ###
 
-Template code is provided in the `boston_housing.ipynb` notebook file. You will also be required to use the included `visuals.py` Python file and the `housing.csv` dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project. Note that the code included in `visuals.py` is meant to be used out-of-the-box and not intended for students to manipulate. If you are interested in how the visualizations are created in the notebook, please feel free to explore this Python file.
+* MLND:
+Python, Anaconda, Sklearn, Html.
+* SDCND:
+Python, Anaconda, Sklearn, Html.
+* FSWDND:
+Python, Anaconda, Html, JavaScript, MongoDB, Vagrant.
 
-### Run
+### Contact ###
 
-In a terminal or command window, navigate to the top-level project directory `boston_housing/` (that contains this README) and run one of the following commands:
-
-```bash
-ipython notebook boston_housing.ipynb
-```  
-or
-```bash
-jupyter notebook boston_housing.ipynb
-```
-
-This will open the Jupyter Notebook software and project file in your browser.
-
-### Data
-
-The modified Boston housing dataset consists of 489 data points, with each datapoint having 3 features. This dataset is a modified version of the Boston Housing dataset found on the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Housing).
-
-**Features**
-1.  `RM`: average number of rooms per dwelling
-2. `LSTAT`: percentage of population considered lower status
-3. `PTRATIO`: pupil-teacher ratio by town
-
-**Target Variable**
-4. `MEDV`: median value of owner-occupied homes
+* [vinicius.silva.arruda@gmail.com](mailto:vinicius.silva.arruda@gmail.com)
