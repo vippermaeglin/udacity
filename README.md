@@ -1,4 +1,4 @@
-<img src="https://www.class-central.com/report/app/uploads/2016/11/Udacity-Homepage.jpg" alt="Udacity-Banner" width="800px">
+<img src="https://d26a57ydsghvgx.cloudfront.net/content/migration/br/br-390468315-0.jpg" alt="Udacity-Banner" width="800px">
 
 # Udacity #
 * [www.udacity.com](http://udacity.com)
